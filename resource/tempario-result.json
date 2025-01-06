@@ -1,0 +1,4282 @@
+[
+  {
+    "reference": "reference",
+    "activity": "activity",
+    "time": "time"
+  },
+  {
+    "reference": "AGILITY",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "AGILITY RS",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "AGILITY CITY 150",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "BET & WIN",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "ACTIV",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.7
+  },
+  {
+    "reference": "SPIKE ",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.7
+  },
+  {
+    "reference": "AGILITY RS  NAKED  ",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "SUPER 8",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "GACELA",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "CRUCERO             x-town 300",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "ROCKET",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "FLY 125",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "TWIST",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "JETIX",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.7
+  },
+  {
+    "reference": "UNI-K 110",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.7
+  },
+  {
+    "reference": "TRACK",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.7
+  },
+  {
+    "reference": "PULSAR 135",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "Perseo",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "PULSAR",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 180 UG",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 150  ",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "THOR 160",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "PULSAR 150 NS ",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "PULSAR 150 AS",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.8
+  },
+  {
+    "reference": "PULSAR 200 AS ",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.8
+  },
+  {
+    "reference": "PULSAR 200 NS ",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "TITAN",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 3
+  },
+  {
+    "reference": "PULSAR  RS 200",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 3
+  },
+  {
+    "reference": "PULSAR 220",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.3
+  },
+  {
+    "reference": "AVENGER 220",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.3
+  },
+  {
+    "reference": "XCD ",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "DISCOVER 100",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "DISCOVER 135",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": " BOXER",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.6
+  },
+  {
+    "reference": "LEXUS",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.6
+  },
+  {
+    "reference": "DISCOVER 100 5S",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "DISCOVER 150",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "CHAMPION",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "DISCOVER 125 ST",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": " BOXER BM 100",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.6
+  },
+  {
+    "reference": "BOXER BM 150",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "BOXER BM 100 ES ",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "PLATINO 125",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.5
+  },
+  {
+    "reference": "PLATINO 125 - 5S",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.5
+  },
+  {
+    "reference": "  PLATINO 100",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.6
+  },
+  {
+    "reference": "PLATINO 110",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.5
+  },
+  {
+    "reference": "FAMILLY",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.5
+  },
+  {
+    "reference": "MOTOCARRO 4T",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.8
+  },
+  {
+    "reference": "TORITO",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.6
+  },
+  {
+    "reference": " KAZE MAX II",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.6
+  },
+  {
+    "reference": "ZX 130- MAGIC II",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.7
+  },
+  {
+    "reference": "KLX 150",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "KLX150  L",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "KLX 250",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2
+  },
+  {
+    "reference": "NINJA 250",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "NINJA 250 FI",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "Z250",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "Z250 SL",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.2
+  },
+  {
+    "reference": "ER-6n",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "TRANS-SPORT",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.8
+  },
+  {
+    "reference": "MRX 150",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "FURAX",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.3
+  },
+  {
+    "reference": "BOMBER 125",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "BOMBER 250",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.5
+  },
+  {
+    "reference": "COMBAT 125",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1
+  },
+  {
+    "reference": "ZS",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "LIFE",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.5
+  },
+  {
+    "reference": "HUNTER",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 1.8
+  },
+  {
+    "reference": "BLACK",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2
+  },
+  {
+    "reference": "VENOM 400",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "VENOM 250",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "ONE",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.7
+  },
+  {
+    "reference": "FLOW",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.7
+  },
+  {
+    "reference": "ADVANCE II LF",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.7
+  },
+  {
+    "reference": "ZONTES 155",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "ZONTES 310M",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 3.5
+  },
+  {
+    "reference": "SHOCK",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 0.7
+  },
+  {
+    "reference": "TNT150i",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "180S",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2
+  },
+  {
+    "reference": "TNT25N",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "LEONCINO 500",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "LEONCINO 250",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "TRK 500X",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 3
+  },
+  {
+    "reference": "TRK 251",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "302 S",
+    "activity": "CALIBRACION Y AJUSTE VALVULAS",
+    "time": 2.5
+  },
+  {
+    "reference": "TOP BOY",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "AGILITY",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "AGILITY CITY 150",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "BET & WIN",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "ACTIV",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "SPIKE ",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "ROCKET",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "JETIX",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "UNI-K 110",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "TRACK",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 135",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "Perseo",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 180 UG",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 150  ",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "THOR 160",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 150 NS ",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 150 AS",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 200 AS ",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 200 NS ",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "TITAN",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.6
+  },
+  {
+    "reference": "PULSAR  RS 200",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "PULSAR 220",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "AVENGER 220",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "XCD ",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 100",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 135",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": " BOXER",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "LEXUS",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 100 5S",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 150",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "CHAMPION",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 125 ST",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": " BOXER BM 100",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "BOXER BM 150",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "BOXER BM 100 ES ",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PLATINO 125",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PLATINO 125 - 5S",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "  PLATINO 100",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "PLATINO 110",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "FAMILLY",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "MOTOCARRO 4T",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "TORITO",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": " KAZE MAX II",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "ZX 130- MAGIC II",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "KMX",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "KLX 150",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "KLX150  L",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "KLX 250",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "NINJA 250",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "NINJA 250 FI",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "Z250",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "Z250 SL",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "ER-6n",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "TRANS-SPORT",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "MRX 150",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "FURAX",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "BOMBER 125",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "BOMBER 250",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "COMBAT 125",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "VENOM 400",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.5
+  },
+  {
+    "reference": "VENOM 250",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "ONE",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "FLOW",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "ADVANCE II LF",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "ZONTES 155",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "ZONTES 310M",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 1
+  },
+  {
+    "reference": "SHOCK",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.3
+  },
+  {
+    "reference": "TNT150i",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "180S",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "TNT25N",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "LEONCINO 500",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "LEONCINO 250",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "TRK 500X",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "TRK 251",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "302 S",
+    "activity": "CAMBIO DE FILTRO Y ACEITE DE MOTOR",
+    "time": 0.4
+  },
+  {
+    "reference": "TOP BOY",
+    "activity": "DESCARBONADA MOTOR INCLUIDO MOFLE",
+    "time": 2.5
+  },
+  {
+    "reference": "KMX",
+    "activity": "DESCARBONADA MOTOR INCLUIDO MOFLE",
+    "time": 3
+  },
+  {
+    "reference": "TOP BOY",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "AGILITY",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "AGILITY RS",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "AGILITY CITY 150",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "BET & WIN",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 2.5
+  },
+  {
+    "reference": "ACTIV",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "SPIKE ",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "AGILITY RS  NAKED  ",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "SUPER 8",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "GACELA",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "CRUCERO             x-town 300",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 2.5
+  },
+  {
+    "reference": "ROCKET",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "FLY 125",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "TWIST",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "JETIX",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "UNI-K 110",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "TRACK",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 135",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "Perseo",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "PULSAR",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "PULSAR 180 UG",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "PULSAR 150  ",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "THOR 160",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.3
+  },
+  {
+    "reference": "PULSAR 150 NS ",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 150 AS",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.3
+  },
+  {
+    "reference": "PULSAR 200 AS ",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.3
+  },
+  {
+    "reference": "PULSAR 200 NS ",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "TITAN",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR  RS 200",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "PULSAR 220",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "AVENGER 220",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "XCD ",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "DISCOVER 100",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "DISCOVER 135",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": " BOXER",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "LEXUS",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "DISCOVER 100 5S",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "DISCOVER 150",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "CHAMPION",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "DISCOVER 125 ST",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": " BOXER BM 100",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "BOXER BM 150",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "BOXER BM 100 ES ",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "PLATINO 125",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "PLATINO 125 - 5S",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "  PLATINO 100",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "PLATINO 110",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "FAMILLY",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "MOTOCARRO 4T",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 2
+  },
+  {
+    "reference": "TORITO",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 2
+  },
+  {
+    "reference": " KAZE MAX II",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "ZX 130- MAGIC II",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "KMX",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "KLX 150",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "KLX150  L",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "KLX 250",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "NINJA 250",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "NINJA 250 FI",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "Z250",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "Z250 SL",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "ER-6n",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "TRANS-SPORT",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "MRX 150",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "FURAX",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "BOMBER 125",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "BOMBER 250",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 0.8
+  },
+  {
+    "reference": "COMBAT 125",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "ZS",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "LIFE",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "HUNTER",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "BLACK",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 2.5
+  },
+  {
+    "reference": "VENOM 400",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "VENOM 250",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "ONE",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "FLOW",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "ADVANCE II LF",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "ZONTES 155",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "ZONTES 310M",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 3.5
+  },
+  {
+    "reference": "SHOCK",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "TNT150i",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "180S",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "TNT25N",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "LEONCINO 500",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "LEONCINO 250",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "TRK 500X",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1.5
+  },
+  {
+    "reference": "TRK 251",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "302 S",
+    "activity": "LIMPIEZA  TANQUE DE GASOLINA",
+    "time": 1
+  },
+  {
+    "reference": "ACTIV",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "SPIKE ",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "JETIX",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "UNI-K 110",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "TRACK",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 135",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "Perseo",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 180 UG",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 150  ",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "THOR 160",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 150 NS ",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 150 AS",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 200 AS ",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 200 NS ",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "TITAN",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR  RS 200",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 220",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "AVENGER 220",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "XCD ",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 100",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 135",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": " BOXER",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "LEXUS",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 100 5S",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 150",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "CHAMPION",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 125 ST",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": " BOXER BM 100",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "BOXER BM 150",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "BOXER BM 100 ES ",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PLATINO 125",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PLATINO 125 - 5S",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "  PLATINO 100",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "PLATINO 110",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "FAMILLY",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "MOTOCARRO 4T",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": " KAZE MAX II",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "ZX 130- MAGIC II",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "KMX",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "KLX 150",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "KLX150  L",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "KLX 250",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "NINJA 250",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "NINJA 250 FI",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "Z250",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "Z250 SL",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "ER-6n",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "TRANS-SPORT",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "MRX 150",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "FURAX",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "BOMBER 125",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "BOMBER 250",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.4
+  },
+  {
+    "reference": "COMBAT 125",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "VENOM 400",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "VENOM 250",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "ONE",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "FLOW",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "ADVANCE II LF",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "ZONTES 155",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "SHOCK",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "TNT150i",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "180S",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "TNT25N",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "LEONCINO 500",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "LEONCINO 250",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "TRK 500X",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "TRK 251",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "302 S",
+    "activity": "LIMPIEZA.TENSIÓN Y LUBRICACIÓN CADENA ",
+    "time": 0.3
+  },
+  {
+    "reference": "ACTIV",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "SPIKE ",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "JETIX",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "UNI-K 110",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "TRACK",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 135",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "Perseo",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 180 UG",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 150  ",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "THOR 160",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 150 NS ",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 150 AS",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 200 AS ",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 200 NS ",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "TITAN",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR  RS 200",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 220",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "AVENGER 220",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "XCD ",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 100",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 135",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": " BOXER",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "LEXUS",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 100 5S",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 150",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "CHAMPION",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "DISCOVER 125 ST",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": " BOXER BM 100",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "BOXER BM 150",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "BOXER BM 100 ES ",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "PLATINO 125",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "PLATINO 125 - 5S",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "  PLATINO 100",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "PLATINO 110",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "FAMILLY",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "MOTOCARRO 4T",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "TORITO",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": " KAZE MAX II",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "ZX 130- MAGIC II",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "KMX",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "KLX 150",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "KLX150  L",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "KLX 250",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "TRANS-SPORT",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "MRX 150",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "BOMBER 125",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "BOMBER 250",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "COMBAT 125",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "VENOM 250",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.5
+  },
+  {
+    "reference": "ONE",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "FLOW",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "ADVANCE II LF",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "SHOCK",
+    "activity": "MANTENIMIENTO Y/O CAMBIO BATERÍA (LIMPIEZA. REV. ELECTROLITO)",
+    "time": 0.3
+  },
+  {
+    "reference": "BET & WIN",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 150 AS",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 200 AS ",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 200 NS ",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "TITAN",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR  RS 200",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "KMX",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.3
+  },
+  {
+    "reference": "KLX 250",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "NINJA 250",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "NINJA 250 FI",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "Z250",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "Z250 SL",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "ER-6n",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "VENOM 400",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "VENOM 250",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "ZONTES 155",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "ZONTES 310M",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 2
+  },
+  {
+    "reference": "TNT150i",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "180S",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "TNT25N",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "LEONCINO 500",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "LEONCINO 250",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "TRK 500X",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "TRK 251",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "302 S",
+    "activity": "AJUSTE DE NIVEL Y /O PURGA DEL SISTEMA DE REFRIGERACIÓN",
+    "time": 0.5
+  },
+  {
+    "reference": "TOP BOY",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "AGILITY",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "AGILITY RS",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "AGILITY CITY 150",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "BET & WIN",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "ACTIV",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "SPIKE ",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "AGILITY RS  NAKED  ",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "SUPER 8",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "GACELA",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "CRUCERO             x-town 300",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "ROCKET",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "FLY 125",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "TWIST",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "JETIX",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "UNI-K 110",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "TRACK",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 135",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "Perseo",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 180 UG",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 150  ",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "THOR 160",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 150 NS ",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 150 AS",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 200 AS ",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 200 NS ",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "TITAN",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR  RS 200",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 220",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "AVENGER 220",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "XCD ",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "DISCOVER 150",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "DISCOVER 125 ST",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "MOTOCARRO 4T",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1.5
+  },
+  {
+    "reference": "TORITO",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1.5
+  },
+  {
+    "reference": " KAZE MAX II",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 0.8
+  },
+  {
+    "reference": "ZX 130- MAGIC II",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "KMX",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "KLX 150",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "KLX150  L",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "KLX 250",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "NINJA 250",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "NINJA 250 FI",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "Z250",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "Z250 SL",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "ER-6n",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "MRX 150",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "FURAX",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "BOMBER 125",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "BOMBER 250",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "COMBAT 125",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "ZS",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "LIFE",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "HUNTER",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "BLACK",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "VENOM 400",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 0.5
+  },
+  {
+    "reference": "VENOM 250",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "ONE",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "FLOW",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "ADVANCE II LF",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "ZONTES 155",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "ZONTES 310M",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "SHOCK",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "TNT150i",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "180S",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "TNT25N",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "LEONCINO 500",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "LEONCINO 250",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "TRK 500X",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "TRK 251",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "302 S",
+    "activity": "PURGA DEL  SISTEMA DE FRENOS CADA UNO",
+    "time": 1
+  },
+  {
+    "reference": "TOP BOY",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "AGILITY",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "AGILITY RS",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "AGILITY CITY 150",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "BET & WIN",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "ACTIV",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.2
+  },
+  {
+    "reference": "SPIKE ",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.2
+  },
+  {
+    "reference": "AGILITY RS  NAKED  ",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "SUPER 8",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "GACELA",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "CRUCERO             x-town 300",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "ROCKET",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "FLY 125",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "TWIST",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "JETIX",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.2
+  },
+  {
+    "reference": "UNI-K 110",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.2
+  },
+  {
+    "reference": "TRACK",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.2
+  },
+  {
+    "reference": "PULSAR 135",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "Perseo",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "PULSAR",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "PULSAR 180 UG",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "PULSAR 150  ",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "THOR 160",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1
+  },
+  {
+    "reference": "PULSAR 150 NS ",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.8
+  },
+  {
+    "reference": "PULSAR 150 AS",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 3.1
+  },
+  {
+    "reference": "PULSAR 200 AS ",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 3.1
+  },
+  {
+    "reference": "PULSAR 200 NS ",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.8
+  },
+  {
+    "reference": "TITAN",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 3
+  },
+  {
+    "reference": "PULSAR  RS 200",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 3.3
+  },
+  {
+    "reference": "PULSAR 220",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "AVENGER 220",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "XCD ",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "DISCOVER 100",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "DISCOVER 135",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": " BOXER",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "LEXUS",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "DISCOVER 100 5S",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "DISCOVER 150",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "CHAMPION",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "DISCOVER 125 ST",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": " BOXER BM 100",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "BOXER BM 150",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "BOXER BM 100 ES ",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "PLATINO 125",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1
+  },
+  {
+    "reference": "PLATINO 125 - 5S",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1
+  },
+  {
+    "reference": "  PLATINO 100",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1
+  },
+  {
+    "reference": "PLATINO 110",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1
+  },
+  {
+    "reference": "FAMILLY",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1
+  },
+  {
+    "reference": "MOTOCARRO 4T",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "TORITO",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": " KAZE MAX II",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "ZX 130- MAGIC II",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.2
+  },
+  {
+    "reference": "KMX",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "KLX 150",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "KLX150  L",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "KLX 250",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "NINJA 250",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "NINJA 250 FI",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "Z250",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "Z250 SL",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.2
+  },
+  {
+    "reference": "ER-6n",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "TRANS-SPORT",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "MRX 150",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.5
+  },
+  {
+    "reference": "FURAX",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "BOMBER 125",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "BOMBER 250",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1
+  },
+  {
+    "reference": "COMBAT 125",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "ZS",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "LIFE",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "HUNTER",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "BLACK",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2
+  },
+  {
+    "reference": "VENOM 400",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 3
+  },
+  {
+    "reference": "VENOM 250",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.8
+  },
+  {
+    "reference": "ONE",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.2
+  },
+  {
+    "reference": "FLOW",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.2
+  },
+  {
+    "reference": "ADVANCE II LF",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.2
+  },
+  {
+    "reference": "ZONTES 155",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "ZONTES 310M",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 3.5
+  },
+  {
+    "reference": "SHOCK",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 1.2
+  },
+  {
+    "reference": "TNT150i",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "180S",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "TNT25N",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "LEONCINO 500",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "LEONCINO 250",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "TRK 500X",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "TRK 251",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "302 S",
+    "activity": "SINCRONIZADA ( CARB. FILTRO DE AIRE. BUJÍA. CALIBRAR VÁLVULAS)",
+    "time": 2.5
+  },
+  {
+    "reference": "TOP BOY",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "AGILITY",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "AGILITY RS",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "AGILITY CITY 150",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "BET & WIN",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "ACTIV",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "SPIKE ",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "AGILITY RS  NAKED  ",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "SUPER 8",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "GACELA",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "CRUCERO             x-town 300",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "ROCKET",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "FLY 125",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "TWIST",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "JETIX",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "UNI-K 110",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "TRACK",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 135",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "Perseo",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 180 UG",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 150  ",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "THOR 160",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 150 NS ",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 150 AS",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 200 AS ",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 200 NS ",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "TITAN",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR  RS 200",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR 220",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "AVENGER 220",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "XCD ",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "DISCOVER 100",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "DISCOVER 135",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": " BOXER",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "LEXUS",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "DISCOVER 100 5S",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "DISCOVER 150",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "CHAMPION",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "DISCOVER 125 ST",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": " BOXER BM 100",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "BOXER BM 150",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "BOXER BM 100 ES ",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PLATINO 125",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PLATINO 125 - 5S",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "  PLATINO 100",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "PLATINO 110",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "FAMILLY",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "MOTOCARRO 4T",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1.5
+  },
+  {
+    "reference": "TORITO",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1.5
+  },
+  {
+    "reference": " KAZE MAX II",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "ZX 130- MAGIC II",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "KMX",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "KLX 150",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "KLX150  L",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "KLX 250",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "NINJA 250",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "NINJA 250 FI",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "Z250",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "Z250 SL",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "ER-6n",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "TRANS-SPORT",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "MRX 150",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "FURAX",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "BOMBER 125",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "BOMBER 250",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "COMBAT 125",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "ZS",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "LIFE",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "HUNTER",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "BLACK",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "VENOM 400",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1.5
+  },
+  {
+    "reference": "VENOM 250",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "ONE",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "FLOW",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "ADVANCE II LF",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "ZONTES 155",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "ZONTES 310M",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.4
+  },
+  {
+    "reference": "SHOCK",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "TNT150i",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "180S",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "TNT25N",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "LEONCINO 500",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "LEONCINO 250",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "TRK 500X",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 0.5
+  },
+  {
+    "reference": "TRK 251",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "302 S",
+    "activity": "REAJUSTE GENERAL CON EL TORQUE ADECUADO (TORNILLERIA EN GENERAL Y AJUSTE DE RADIOS)",
+    "time": 1
+  },
+  {
+    "reference": "TOP BOY",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "AGILITY",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "AGILITY RS",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "AGILITY CITY 150",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "BET & WIN",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "AGILITY RS  NAKED  ",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "SUPER 8",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "GACELA",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "CRUCERO             x-town 300",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "ROCKET",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "FLY 125",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "TWIST",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "ZS",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "LIFE",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "HUNTER",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "BLACK",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1
+  },
+  {
+    "reference": "ZONTES 310M",
+    "activity": "MANTENIMIENTO SISTEMA TRANSMISIÓN AUTOMÁTICA (CVT)",
+    "time": 1.5
+  },
+  {
+    "reference": "TOP BOY",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 1
+  },
+  {
+    "reference": "ACTIV",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "SPIKE ",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "JETIX",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "UNI-K 110",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "TRACK",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "PULSAR 135",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "Perseo",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "PULSAR",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "PULSAR 180 UG",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "PULSAR 150  ",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "THOR 160",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "AVENGER 220",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "DISCOVER 135",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "DISCOVER 100 5S",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "DISCOVER 150",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "CHAMPION",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "DISCOVER 125 ST",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "MOTOCARRO 4T",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 2
+  },
+  {
+    "reference": "TORITO",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 2
+  },
+  {
+    "reference": "MRX 150",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 1
+  },
+  {
+    "reference": "FURAX",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 1
+  },
+  {
+    "reference": "BOMBER 125",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 1
+  },
+  {
+    "reference": "COMBAT 125",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 1
+  },
+  {
+    "reference": "ONE",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "FLOW",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "ADVANCE II LF",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "ZONTES 155",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 2
+  },
+  {
+    "reference": "ZONTES 310M",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 2
+  },
+  {
+    "reference": "SHOCK",
+    "activity": "LIMPIEZA Y LUBRICACIÓN DEL CLUTCH DE ARRANQUE",
+    "time": 0.8
+  },
+  {
+    "reference": "TOP BOY",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "AGILITY",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "AGILITY RS",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "AGILITY CITY 150",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "BET & WIN",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "ACTIV",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "SPIKE ",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "AGILITY RS  NAKED  ",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "SUPER 8",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "GACELA",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "CRUCERO             x-town 300",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "ROCKET",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "FLY 125",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "TWIST",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "JETIX",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "UNI-K 110",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "TRACK",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "PULSAR 135",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "Perseo",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "PULSAR",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "PULSAR 180 UG",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "PULSAR 150  ",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "THOR 160",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "PULSAR 150 NS ",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "PULSAR 150 AS",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "PULSAR 200 AS ",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "PULSAR 200 NS ",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "TITAN",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "PULSAR  RS 200",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "PULSAR 220",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "AVENGER 220",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "XCD ",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "DISCOVER 100",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "DISCOVER 135",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": " BOXER",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "LEXUS",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "DISCOVER 100 5S",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "DISCOVER 150",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "CHAMPION",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "DISCOVER 125 ST",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": " BOXER BM 100",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "BOXER BM 150",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "BOXER BM 100 ES ",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "PLATINO 125",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "PLATINO 125 - 5S",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "  PLATINO 100",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "PLATINO 110",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "FAMILLY",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "MOTOCARRO 4T",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 1
+  },
+  {
+    "reference": "TORITO",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 1
+  },
+  {
+    "reference": " KAZE MAX II",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "ZX 130- MAGIC II",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "KMX",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "KLX 150",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "KLX150  L",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "KLX 250",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "NINJA 250",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "NINJA 250 FI",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "Z250",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "Z250 SL",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "ER-6n",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "TRANS-SPORT",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "MRX 150",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "FURAX",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "BOMBER 125",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "BOMBER 250",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.4
+  },
+  {
+    "reference": "COMBAT 125",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "ZS",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "LIFE",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "VENOM 400",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.5
+  },
+  {
+    "reference": "VENOM 250",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "ONE",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "FLOW",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "ADVANCE II LF",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "ZONTES 155",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "SHOCK",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "TNT150i",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "180S",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "TNT25N",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "LEONCINO 500",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "LEONCINO 250",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "TRK 500X",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "TRK 251",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "302 S",
+    "activity": "TENSION Y LUBRICACION DE CABLES (clutch. choke. acelerador y freno)",
+    "time": 0.7
+  },
+  {
+    "reference": "TOP BOY",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "AGILITY",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "AGILITY RS",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "AGILITY CITY 150",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "BET & WIN",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "ACTIV",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "SPIKE ",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "AGILITY RS  NAKED  ",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "ROCKET",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "FLY 125",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "TWIST",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "JETIX",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "UNI-K 110",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "TRACK",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PULSAR 135",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "Perseo",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PULSAR",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PULSAR 180 UG",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PULSAR 150  ",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "THOR 160",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PULSAR 200  ",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PULSAR 150 NS ",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PULSAR 150 AS",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PULSAR 200 AS ",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PULSAR 220",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "AVENGER 220",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "XCD ",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "DISCOVER 100",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "DISCOVER 135",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": " BOXER",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "DISCOVER 100 5S",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "DISCOVER 150",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "DISCOVER 125 ST",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": " BOXER BM 100",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "BOXER BM 150",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "BOXER BM 100 ES ",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PLATINO 125",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PLATINO 125 - 5S",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "  PLATINO 100",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "PLATINO 110",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "MOTOCARRO 4T",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "TORITO",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "MOTOCARRO DIESEL",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": " KAZE MAX II",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "ZX 130- MAGIC II",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "KMX",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "KLX 150",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "KLX150  L",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "NINJA 250",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "NINJA 250 FI",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "Z250",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "Z250 SL",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "ER-6n",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "TRANS-SPORT",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "MRX 150",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "FURAX",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "ONE",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "FLOW",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "ADVANCE II LF",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "ZONTES 155",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "SHOCK",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "TNT150i",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "180S",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "TNT25N",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "LEONCINO 500",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "LEONCINO 250",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "TRK 500X",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "TRK 251",
+    "activity": "NO APLICA",
+    "time": 0.01
+  },
+  {
+    "reference": "302 S",
+    "activity": "NO APLICA",
+    "time": 0.01
+  }
+]
